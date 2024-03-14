@@ -8,6 +8,8 @@ Package is meant to be an easy and efficient way to get student data for Pinella
 # Install
 pip install pcsbFocus==0.0.1
 
+
+
 # Example
 
 ```python
