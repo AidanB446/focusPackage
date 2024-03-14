@@ -5,10 +5,10 @@ Python package to get data from the Pinellas County Schools student Focus web ap
 
 Package is meant to be an easy and efficient way to get student data for Pinellas County Students.
 
-#Install
+# Install
 pip install pcsbFocus==0.0.1
 
-#Example
+# Example
 
 ```python
 from pcsbFocus.focus import focus
