@@ -10,7 +10,7 @@ pip install pcsbFocus==0.0.1
 
 #Example
 
-```
+```python
 from pcsbFocus.focus import focus
 
 student = focus("username", "password")
